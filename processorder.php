@@ -55,8 +55,9 @@ if($totalqty==0){
 	}elseif($tireqty>=100){
 		$discount=15;
 	}
+	$find = $_POST['find'];
 	switch($find){
-		case "a" :
+		case"a":
 		echo "<p>Regular customer.</p>";
 		break;
 		case "b" :
