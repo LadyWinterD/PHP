@@ -1,0 +1,39 @@
+body{
+	margin: 0 auto;
+	border: 1px solid green;
+	width:950px;
+	height:800px;
+	font-size:12px;
+}
+.title{
+	width:950px;
+	height:100px;
+	border:1 px solid silver;
+	background:pink;
+}
+.top{
+	width:950px;
+	height:40px;
+	border:1 px solid silver;
+	margin-top:5px;
+	background:pink;
+}
+.leftsid{
+	height:640px;
+	width:100px;
+	border:1px solid silver:
+	margin-top:5px;
+	
+}
+.leftsid img{
+	height:10px;
+	width:100px;
+	margin-bottom:5px;
+	float:left;
+}
+.login{
+	height:100px;
+	width:100px:
+	border:1px solid silver;
+	float:left;
+}

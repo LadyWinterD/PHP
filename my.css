@@ -1,0 +1,21 @@
+.div1{
+	width:70px;
+	height:30px;
+	background:pink;
+	margin-left:5px;
+	float:left;
+	border:1px solid blue;
+}
+#spe{
+	position:obsolute;
+	left:40px;
+	top:100px;
+	background:pink;
+
+}
+.div2{
+	width:200px;
+	height:150px;
+	background:silver;
+	float:left;
+}

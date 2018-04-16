@@ -1,0 +1,93 @@
+body{
+	margin: 0 auto;
+	border: 1px solid green;
+	width:950px;
+	height:800px;
+	font-size:12px;
+}
+.top{
+	width: 950px;
+	height:24px;
+}
+.login{
+	width:350px;
+	height:22px;
+	background:pink;
+	float:left;
+}
+
+.setindex{
+	WIDTH:85px;
+	height:20px;
+	background:green;
+	float:left;
+	margin-left:100px;
+}
+.myhref{
+	float:right;
+	margin-right:5px;
+}
+.logo{
+	width:125px;
+	height:56px;
+	background:silver;
+	float:left;
+	margin-top:3px;
+}
+.logo img{
+	width:125px;
+	height:56px;
+}
+.navi{/*navigation*/
+	width:810px;
+	height:56px;
+	background:#7bf773;
+	margin-top:3px;
+	float:left;
+	margin-left:10px;
+}
+.adAll{
+	width:950px;
+	height:211px;
+	margin-top:3px;
+	float:left;
+	border:1px solid silver;
+}
+.adstu{
+	/*招生广告*/
+	width:126px;
+	height:195px;
+	float:left;
+	background:#7bf773;
+	margin:5px 0 0 5px;
+}
+.adsport{
+	width:451px;
+	height:195px;
+	float:left;
+	background:#7bf773;
+	margin:5px 0 0 15px;
+}
+.adbuild{
+	width:151px;
+	height:195px;
+	float:left;
+	background:#7bf773;
+	margin:5px 0 0 15px;
+}
+/*图片广告*/
+.adimg{
+	width:180px;
+	height:210px;
+	float:right;
+	text-align:center;
+	border-left:1px solid silver;
+	
+}
+.adimg img{
+	width:170px;
+	height:200px;
+	margin-top:5px;
+	border
+}
+
